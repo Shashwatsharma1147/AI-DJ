@@ -1,0 +1,65 @@
+body
+{
+    background: url(background.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+.heading
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color:aquamarine;
+    font-family: cursive;
+}
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+.div_speed
+{
+    float: left;
+}
+#speed
+{
+    font-size: 25px;
+    margin: 15px;
+}
+.div_volume
+{
+    float: right;
+}
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume
+{
+    font-size: 25px;
+    margin: 15px;
+}
+#play_button
+{
+    width: 150px;
+    margin: 5px;
+}
+#stop_button
+{
+    width:150px;
+    margin: 5px;
+}
+canvas
+{
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+}
